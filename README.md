@@ -27,3 +27,4 @@ Now this basically gives a discrete value (0 or 1) output. Hence this is classfi
 
 # UnSupervised Learning:
 
+In UnSupervised learning we lots of data without any label. We can derive structure from data. In one of the UnSupervised learning algorithm (cluster algo) we cluster the given data into different groups. Example: Given a set of news article found on the web, we can group them into separate topics.
